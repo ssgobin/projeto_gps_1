@@ -11,6 +11,7 @@ import 'package:projeto_gps_1/screens/groups_list_screen.dart';
 import 'package:projeto_gps_1/widgets/map_widget.dart';
 import 'package:projeto_gps_1/screens/chat_screen.dart';
 
+
 import 'firebase_options.dart';
 
 void main() async {
