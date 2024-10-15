@@ -48,7 +48,7 @@
 
 <h2 align="left">🤝 Contribuições</h2>
 <p align="left">
-  Contribuições são bem-vindas! Se você deseja sugerir melhorias ou corrigir bugs, sinta-se à vontade para abrir uma <a href="https://github.com/ssgobin/amigos-de-viagem/issues" target="_blank">issue</a> ou enviar um <a href="https://github.com/ssgobin/amigos-de-viagem/pulls" target="_blank">pull request</a>.
+  Contribuições são bem-vindas! Se você deseja sugerir melhorias ou corrigir bugs, sinta-se à vontade para abrir uma <a href="https://github.com/ssgobin/projeto_gps_1/issues" target="_blank">issue</a> ou enviar um <a href="https://github.com/ssgobin/projeto_gps_1/pulls" target="_blank">pull request</a>.
 </p>
 
 <h2 align="left">📝 Licença</h2>
