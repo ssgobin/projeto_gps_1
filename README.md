@@ -48,12 +48,12 @@
 
 <h2 align="left">🤝 Contribuições</h2>
 <p align="left">
-  Contribuições são bem-vindas! Se você deseja sugerir melhorias ou corrigir bugs, sinta-se à vontade para abrir uma <a href="https://github.com/seu-usuario/amigos-de-viagem/issues" target="_blank">issue</a> ou enviar um <a href="https://github.com/seu-usuario/amigos-de-viagem/pulls" target="_blank">pull request</a>. Antes de contribuir, por favor, leia o arquivo <code>CONTRIBUTING.md</code> para entender as regras do projeto.
+  Contribuições são bem-vindas! Se você deseja sugerir melhorias ou corrigir bugs, sinta-se à vontade para abrir uma <a href="https://github.com/seu-usuario/amigos-de-viagem/issues" target="_blank">issue</a> ou enviar um <a href="https://github.com/seu-usuario/amigos-de-viagem/pulls" target="_blank">pull request</a>.
 </p>
 
 <h2 align="left">📝 Licença</h2>
 <p align="left">
-  Este projeto está licenciado sob a licença MIT. Veja o arquivo <code>LICENSE</code> para mais detalhes.
+  Este projeto está licenciado sob a licença MIT.
 </p>
 
 <h2 align="left">📞 Contato</h2>
